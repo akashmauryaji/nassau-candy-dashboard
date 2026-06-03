@@ -1,0 +1,5 @@
+Ship Mode,Total_Orders,Avg_Lead_Time,Avg_Sales,Avg_Margin,Delay_Rate,Delay_Rate (%)
+First Class,1548,607.75,13.77,66.46,0.37,37.21
+Same Day,547,602.88,13.0,66.51,0.34,34.37
+Second Class,1979,593.3,14.08,66.46,0.34,33.65
+Standard Class,6120,583.8,13.97,66.55,0.32,31.85

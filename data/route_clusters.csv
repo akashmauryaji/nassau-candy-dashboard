@@ -1,0 +1,197 @@
+Route,Factory,Region,Total_Orders,Avg_Lead_Time,Std_Lead_Time,Min_Lead_Time,Max_Lead_Time,Total_Sales,Avg_Profit_Margin,Delay Rate (%),Efficiency Score,Cluster,Route Type
+Lot's O' Nuts → Alabama,Lot's O' Nuts,Gulf,34,564.71,252.85,176,912,475.61,69.02,26.47,47.19,1,Medium
+Lot's O' Nuts → Alberta,Lot's O' Nuts,Pacific,16,543.38,266.83,179,910,204.32,69.33,25.0,50.08,1,Medium
+Lot's O' Nuts → Arizona,Lot's O' Nuts,Pacific,111,575.68,253.73,174,912,1468.05,69.22,28.83,45.7,1,Medium
+Lot's O' Nuts → Arkansas,Lot's O' Nuts,Gulf,31,554.87,274.46,178,912,434.69,68.92,29.03,48.52,1,Medium
+Lot's O' Nuts → British Columbia,Lot's O' Nuts,Pacific,18,543.33,306.94,176,910,253.4,68.02,33.33,50.09,1,Medium
+Lot's O' Nuts → California,Lot's O' Nuts,Pacific,1125,586.37,265.22,174,912,15044.9,69.18,33.07,44.24,3,Medium-Fast
+Lot's O' Nuts → Colorado,Lot's O' Nuts,Pacific,103,616.95,252.61,174,911,1447.66,69.2,35.92,40.09,1,Medium
+Lot's O' Nuts → Connecticut,Lot's O' Nuts,Atlantic,47,689.83,249.22,176,910,523.59,69.17,51.06,30.19,1,Medium
+Lot's O' Nuts → Delaware,Lot's O' Nuts,Atlantic,43,542.77,251.68,176,910,631.59,69.24,23.26,50.17,1,Medium
+Lot's O' Nuts → District of Columbia,Lot's O' Nuts,Atlantic,8,635.12,168.42,543,908,126.0,67.71,25.0,37.62,1,Medium
+Lot's O' Nuts → Florida,Lot's O' Nuts,Gulf,209,588.09,283.01,174,911,2640.13,69.06,36.84,44.01,1,Medium
+Lot's O' Nuts → Georgia,Lot's O' Nuts,Gulf,110,598.99,243.33,174,911,1474.09,69.58,30.91,42.53,1,Medium
+Lot's O' Nuts → Idaho,Lot's O' Nuts,Pacific,14,621.0,255.76,178,911,146.5,69.0,35.71,39.54,1,Medium
+Lot's O' Nuts → Illinois,Lot's O' Nuts,Interior,267,589.37,268.21,176,912,3539.21,69.35,34.08,43.84,1,Medium
+Lot's O' Nuts → Indiana,Lot's O' Nuts,Interior,90,636.12,235.97,177,911,1253.78,69.28,36.67,37.48,1,Medium
+Lot's O' Nuts → Iowa,Lot's O' Nuts,Interior,16,748.12,187.63,539,911,227.87,69.17,56.25,22.27,1,Medium
+Lot's O' Nuts → Kansas,Lot's O' Nuts,Interior,15,518.33,215.91,178,909,188.93,69.34,13.33,53.49,1,Medium
+Lot's O' Nuts → Kentucky,Lot's O' Nuts,Gulf,77,595.09,276.21,174,911,1039.13,68.95,36.36,43.06,1,Medium
+Lot's O' Nuts → Louisiana,Lot's O' Nuts,Gulf,24,572.54,282.84,176,909,283.71,69.47,33.33,46.12,1,Medium
+Lot's O' Nuts → Maine,Lot's O' Nuts,Atlantic,6,483.17,149.5,178,545,71.23,69.93,0.0,58.26,0,Fast Route
+Lot's O' Nuts → Manitoba,Lot's O' Nuts,Interior,2,723.5,259.51,540,907,18.0,66.67,50.0,25.61,1,Medium
+Lot's O' Nuts → Maryland,Lot's O' Nuts,Atlantic,60,640.05,221.86,178,911,812.74,69.79,35.0,36.95,1,Medium
+Lot's O' Nuts → Massachusetts,Lot's O' Nuts,Atlantic,76,561.59,252.27,176,910,1003.24,68.65,26.32,47.61,1,Medium
+Lot's O' Nuts → Michigan,Lot's O' Nuts,Interior,147,572.43,247.05,176,912,2103.76,69.06,27.21,46.14,1,Medium
+Lot's O' Nuts → Minnesota,Lot's O' Nuts,Interior,43,619.93,282.51,176,912,561.21,69.25,41.86,39.68,1,Medium
+Lot's O' Nuts → Mississippi,Lot's O' Nuts,Gulf,30,567.1,286.61,176,911,448.43,69.4,33.33,46.86,1,Medium
+Lot's O' Nuts → Missouri,Lot's O' Nuts,Interior,36,634.33,267.17,177,910,514.08,69.88,41.67,37.73,1,Medium
+Lot's O' Nuts → Montana,Lot's O' Nuts,Pacific,8,588.62,233.7,179,908,92.61,68.88,25.0,43.94,1,Medium
+Lot's O' Nuts → Nebraska,Lot's O' Nuts,Interior,23,605.48,237.58,175,909,295.28,69.59,30.43,41.65,1,Medium
+Lot's O' Nuts → Nevada,Lot's O' Nuts,Pacific,24,512.5,238.86,174,910,389.21,68.88,16.67,54.28,1,Medium
+Lot's O' Nuts → New Brunswick,Lot's O' Nuts,Atlantic,4,542.75,298.43,178,909,97.72,71.35,25.0,50.17,1,Medium
+Lot's O' Nuts → New Hampshire,Lot's O' Nuts,Atlantic,13,541.69,210.59,176,906,178.02,68.96,15.38,50.31,1,Medium
+Lot's O' Nuts → New Jersey,Lot's O' Nuts,Atlantic,65,605.05,278.52,177,912,825.88,69.02,38.46,41.71,1,Medium
+Lot's O' Nuts → New Mexico,Lot's O' Nuts,Pacific,18,726.44,258.3,179,911,260.71,69.31,61.11,25.21,1,Medium
+Lot's O' Nuts → New York,Lot's O' Nuts,Atlantic,645,599.97,249.17,174,912,8757.81,69.13,32.25,42.4,3,Medium-Fast
+Lot's O' Nuts → Newfoundland and Labrador,Lot's O' Nuts,Atlantic,6,486.0,357.42,181,912,162.0,69.44,33.33,57.88,1,Medium
+Lot's O' Nuts → North Carolina,Lot's O' Nuts,Gulf,143,583.64,249.17,177,912,2045.61,69.32,29.37,44.61,1,Medium
+Lot's O' Nuts → North Dakota,Lot's O' Nuts,Interior,5,907.6,2.19,906,910,57.16,69.27,100.0,0.6,2,Medium-Slow
+Lot's O' Nuts → Ohio,Lot's O' Nuts,Atlantic,262,603.55,260.33,174,912,3472.74,69.05,35.11,41.91,1,Medium
+Lot's O' Nuts → Oklahoma,Lot's O' Nuts,Interior,41,551.98,237.29,179,911,569.4,69.19,21.95,48.92,1,Medium
+Lot's O' Nuts → Ontario,Lot's O' Nuts,Atlantic,28,515.86,261.17,176,909,348.32,68.46,21.43,53.82,1,Medium
+Lot's O' Nuts → Oregon,Lot's O' Nuts,Pacific,77,514.75,269.73,176,911,1085.9,69.4,23.38,53.97,1,Medium
+Lot's O' Nuts → Pennsylvania,Lot's O' Nuts,Atlantic,331,584.61,260.38,174,912,4338.55,69.05,31.72,44.48,1,Medium
+Lot's O' Nuts → Prince Edward Island,Lot's O' Nuts,Atlantic,6,665.17,298.51,178,909,78.1,70.08,50.0,33.54,1,Medium
+Lot's O' Nuts → Quebec,Lot's O' Nuts,Atlantic,24,603.62,298.44,174,911,242.93,68.53,41.67,41.9,1,Medium
+Lot's O' Nuts → Rhode Island,Lot's O' Nuts,Atlantic,30,566.57,301.88,176,910,353.76,68.93,36.67,46.93,1,Medium
+Lot's O' Nuts → South Carolina,Lot's O' Nuts,Gulf,21,559.76,244.55,174,911,281.32,69.29,23.81,47.86,1,Medium
+Lot's O' Nuts → South Dakota,Lot's O' Nuts,Interior,9,746.56,322.34,178,910,117.59,69.98,77.78,22.48,1,Medium
+Lot's O' Nuts → Tennessee,Lot's O' Nuts,Gulf,109,660.4,257.69,176,912,1361.56,69.22,45.87,34.18,1,Medium
+Lot's O' Nuts → Texas,Lot's O' Nuts,Interior,569,579.93,260.2,174,912,7642.34,69.15,30.93,45.12,3,Medium-Fast
+Lot's O' Nuts → Utah,Lot's O' Nuts,Pacific,29,505.66,298.13,176,910,393.91,68.69,27.59,55.21,1,Medium
+Lot's O' Nuts → Vermont,Lot's O' Nuts,Atlantic,5,761.6,200.47,542,910,103.19,70.59,60.0,20.43,1,Medium
+Lot's O' Nuts → Virginia,Lot's O' Nuts,Gulf,109,498.96,261.74,175,911,1538.84,68.85,20.18,56.12,1,Medium
+Lot's O' Nuts → Washington,Lot's O' Nuts,Pacific,269,613.39,274.81,174,912,3492.91,69.19,39.78,40.57,1,Medium
+Lot's O' Nuts → West Virginia,Lot's O' Nuts,Atlantic,2,906.5,2.12,905,908,38.72,70.4,100.0,0.75,2,Medium-Slow
+Lot's O' Nuts → Wisconsin,Lot's O' Nuts,Interior,58,637.12,242.43,176,911,768.25,69.37,37.93,37.35,1,Medium
+Lot's O' Nuts → Wyoming,Lot's O' Nuts,Pacific,1,543.0,,543,543,13.96,71.35,0.0,50.14,0,Fast Route
+Secret Factory → Alabama,Secret Factory,Gulf,3,542.0,366.5,176,909,150.0,50.67,33.33,50.27,1,Medium
+Secret Factory → Alberta,Secret Factory,Pacific,2,544.5,516.9,179,910,180.0,50.0,50.0,49.93,1,Medium
+Secret Factory → Arizona,Secret Factory,Pacific,5,397.0,327.03,177,910,640.0,50.0,20.0,69.97,1,Medium
+Secret Factory → Arkansas,Secret Factory,Gulf,2,726.0,260.22,542,910,63.75,51.0,50.0,25.27,1,Medium
+Secret Factory → California,Secret Factory,Pacific,31,577.81,288.11,174,910,1238.75,51.03,35.48,45.41,1,Medium
+Secret Factory → Colorado,Secret Factory,Pacific,7,645.71,179.19,539,909,171.25,55.43,28.57,36.18,1,Medium
+Secret Factory → Connecticut,Secret Factory,Atlantic,1,907.0,,907,907,2.5,52.0,100.0,0.68,2,Medium-Slow
+Secret Factory → Delaware,Secret Factory,Atlantic,1,179.0,,179,179,60.0,50.0,0.0,99.59,0,Fast Route
+Secret Factory → Florida,Secret Factory,Gulf,7,751.86,196.62,540,910,78.75,56.0,57.14,21.76,1,Medium
+Secret Factory → Georgia,Secret Factory,Gulf,7,647.43,347.31,177,909,317.5,51.14,57.14,35.95,1,Medium
+Secret Factory → Illinois,Secret Factory,Interior,13,598.23,359.69,177,911,546.25,50.92,53.85,42.63,1,Medium
+Secret Factory → Indiana,Secret Factory,Interior,4,725.5,210.16,543,908,21.25,52.0,50.0,25.34,1,Medium
+Secret Factory → Kentucky,Secret Factory,Gulf,2,907.5,0.71,907,908,46.25,51.0,100.0,0.61,2,Medium-Slow
+Secret Factory → Louisiana,Secret Factory,Gulf,2,178.5,0.71,178,179,11.25,52.0,0.0,99.66,0,Fast Route
+Secret Factory → Maryland,Secret Factory,Atlantic,3,787.0,211.31,543,910,8.75,52.0,66.67,16.98,1,Medium
+Secret Factory → Massachusetts,Secret Factory,Atlantic,2,724.5,260.92,540,909,100.0,50.0,50.0,25.48,1,Medium
+Secret Factory → Michigan,Secret Factory,Interior,5,615.4,306.17,178,909,82.5,51.6,40.0,40.3,1,Medium
+Secret Factory → Minnesota,Secret Factory,Interior,1,179.0,,179,179,5.0,52.0,0.0,99.59,0,Fast Route
+Secret Factory → Mississippi,Secret Factory,Gulf,1,178.0,,178,178,80.0,50.0,0.0,99.73,0,Fast Route
+Secret Factory → Nebraska,Secret Factory,Interior,1,176.0,,176,176,2.5,52.0,0.0,100.0,0,Fast Route
+Secret Factory → Nevada,Secret Factory,Pacific,2,360.5,260.92,176,545,202.5,51.0,0.0,74.93,0,Fast Route
+Secret Factory → New Hampshire,Secret Factory,Atlantic,1,910.0,,910,910,6.25,52.0,100.0,0.27,2,Medium-Slow
+Secret Factory → New Jersey,Secret Factory,Atlantic,2,543.5,2.12,542,545,6.25,52.0,0.0,50.07,0,Fast Route
+Secret Factory → New Mexico,Secret Factory,Pacific,2,176.0,2.83,174,178,12.5,52.0,0.0,100.0,0,Fast Route
+Secret Factory → New York,Secret Factory,Atlantic,24,649.08,274.42,175,911,1026.25,50.92,45.83,35.72,1,Medium
+Secret Factory → North Carolina,Secret Factory,Gulf,4,817.25,181.52,545,911,20.0,52.0,75.0,12.87,2,Medium-Slow
+Secret Factory → Ohio,Secret Factory,Atlantic,13,571.0,314.85,176,909,768.75,50.92,38.46,46.33,1,Medium
+Secret Factory → Oregon,Secret Factory,Pacific,2,540.5,0.71,540,541,180.0,50.0,0.0,50.48,0,Fast Route
+Secret Factory → Pennsylvania,Secret Factory,Atlantic,19,580.89,295.82,176,910,762.5,51.16,36.84,44.99,1,Medium
+Secret Factory → Quebec,Secret Factory,Atlantic,2,543.5,516.9,178,909,100.0,50.0,50.0,50.07,1,Medium
+Secret Factory → Rhode Island,Secret Factory,Atlantic,3,663.67,210.74,540,907,142.5,50.67,33.33,33.74,1,Medium
+Secret Factory → South Carolina,Secret Factory,Gulf,1,179.0,,179,179,6.25,52.0,0.0,99.59,0,Fast Route
+Secret Factory → Tennessee,Secret Factory,Gulf,3,664.67,212.46,542,910,62.5,51.33,33.33,33.6,1,Medium
+Secret Factory → Texas,Secret Factory,Interior,16,496.69,323.63,175,911,517.5,53.25,31.25,56.43,1,Medium
+Secret Factory → Utah,Secret Factory,Pacific,1,544.0,,544,544,100.0,50.0,0.0,50.0,0,Fast Route
+Secret Factory → Vermont,Secret Factory,Atlantic,1,542.0,,542,542,7.5,52.0,0.0,50.27,0,Fast Route
+Secret Factory → Virginia,Secret Factory,Gulf,5,323.2,199.74,176,543,93.75,51.6,0.0,80.0,0,Fast Route
+Secret Factory → Washington,Secret Factory,Pacific,11,741.64,190.57,540,910,351.25,50.91,54.55,23.15,1,Medium
+Secret Factory → Wisconsin,Secret Factory,Interior,5,615.8,163.91,541,909,415.0,50.8,20.0,40.24,1,Medium
+Sugar Shack → Arizona,Sugar Shack,Pacific,1,544.0,,544,544,11.25,60.0,0.0,50.0,0,Fast Route
+Sugar Shack → California,Sugar Shack,Pacific,1,908.0,,908,908,6.0,46.67,100.0,0.54,2,Medium-Slow
+Sugar Shack → Connecticut,Sugar Shack,Atlantic,1,911.0,,911,911,3.98,62.31,100.0,0.14,2,Medium-Slow
+Sugar Shack → Delaware,Sugar Shack,Atlantic,1,180.0,,180,180,4.5,46.67,0.0,99.46,0,Fast Route
+Sugar Shack → Florida,Sugar Shack,Gulf,3,300.67,210.73,179,544,36.89,61.54,0.0,83.06,0,Fast Route
+Sugar Shack → Illinois,Sugar Shack,Interior,2,358.5,256.68,177,540,12.0,50.0,0.0,75.2,0,Fast Route
+Sugar Shack → Michigan,Sugar Shack,Interior,3,664.33,211.89,542,909,17.74,56.33,33.33,33.65,1,Medium
+Sugar Shack → New Jersey,Sugar Shack,Atlantic,1,912.0,,912,912,5.97,62.31,100.0,0.0,2,Medium-Slow
+Sugar Shack → New York,Sugar Shack,Atlantic,9,583.56,285.34,178,910,56.97,50.89,33.33,44.63,1,Medium
+Sugar Shack → Ohio,Sugar Shack,Atlantic,2,907.0,2.83,905,909,18.46,54.49,100.0,0.68,2,Medium-Slow
+Sugar Shack → Pennsylvania,Sugar Shack,Atlantic,3,665.33,211.02,543,909,24.23,56.33,33.33,33.51,1,Medium
+Sugar Shack → Rhode Island,Sugar Shack,Atlantic,1,542.0,,542,542,4.5,46.67,0.0,50.27,0,Fast Route
+Sugar Shack → Tennessee,Sugar Shack,Gulf,1,541.0,,541,541,1.5,40.0,0.0,50.41,0,Fast Route
+Sugar Shack → Texas,Sugar Shack,Interior,3,664.33,212.75,541,910,15.0,46.67,33.33,33.65,1,Medium
+Sugar Shack → Washington,Sugar Shack,Pacific,1,907.0,,907,907,1.99,62.31,100.0,0.68,2,Medium-Slow
+The Other Factory → Alabama,The Other Factory,Gulf,2,726.0,257.39,544,908,35.75,7.69,50.0,25.27,1,Medium
+The Other Factory → Arizona,The Other Factory,Pacific,2,540.5,0.71,540,541,38.75,42.74,0.0,50.48,0,Fast Route
+The Other Factory → California,The Other Factory,Pacific,21,594.52,265.23,178,910,233.75,11.03,33.33,43.14,1,Medium
+The Other Factory → Colorado,The Other Factory,Pacific,2,542.5,2.12,541,544,19.5,7.69,0.0,50.2,0,Fast Route
+The Other Factory → Connecticut,The Other Factory,Atlantic,2,177.5,2.12,176,179,9.75,7.69,0.0,99.8,0,Fast Route
+The Other Factory → Delaware,The Other Factory,Atlantic,2,725.5,260.92,541,910,26.0,7.69,50.0,25.34,1,Medium
+The Other Factory → Florida,The Other Factory,Gulf,3,299.0,212.18,176,544,39.0,7.69,0.0,83.29,0,Fast Route
+The Other Factory → Georgia,The Other Factory,Gulf,2,726.0,258.8,543,909,39.0,7.69,50.0,25.27,1,Medium
+The Other Factory → Indiana,The Other Factory,Interior,1,544.0,,544,544,19.5,7.69,0.0,50.0,0,Fast Route
+The Other Factory → Kentucky,The Other Factory,Gulf,2,540.5,518.31,174,907,26.0,7.69,50.0,50.48,1,Medium
+The Other Factory → Louisiana,The Other Factory,Gulf,1,177.0,,177,177,9.75,7.69,0.0,99.86,0,Fast Route
+The Other Factory → Maryland,The Other Factory,Atlantic,1,543.0,,543,543,3.25,7.69,0.0,50.14,0,Fast Route
+The Other Factory → Massachusetts,The Other Factory,Atlantic,3,420.0,210.44,177,542,32.5,7.69,0.0,66.85,0,Fast Route
+The Other Factory → Missouri,The Other Factory,Interior,1,544.0,,544,544,6.5,7.69,0.0,50.0,0,Fast Route
+The Other Factory → Nevada,The Other Factory,Pacific,1,907.0,,907,907,16.25,7.69,100.0,0.68,2,Medium-Slow
+The Other Factory → New Hampshire,The Other Factory,Atlantic,2,358.0,257.39,176,540,35.75,7.69,0.0,75.27,0,Fast Route
+The Other Factory → New Jersey,The Other Factory,Atlantic,3,664.67,211.6,542,909,68.25,7.69,33.33,33.6,1,Medium
+The Other Factory → New York,The Other Factory,Atlantic,14,621.36,326.54,176,911,181.75,12.7,50.0,39.49,1,Medium
+The Other Factory → North Carolina,The Other Factory,Gulf,1,905.0,,905,905,9.0,77.78,100.0,0.95,2,Medium-Slow
+The Other Factory → Ohio,The Other Factory,Atlantic,3,541.33,2.31,540,544,29.25,7.69,0.0,50.36,0,Fast Route
+The Other Factory → Oregon,The Other Factory,Pacific,2,358.5,258.09,176,541,26.0,7.69,0.0,75.2,0,Fast Route
+The Other Factory → Pennsylvania,The Other Factory,Atlantic,7,542.57,210.45,178,907,97.5,7.69,14.29,50.19,1,Medium
+The Other Factory → Rhode Island,The Other Factory,Atlantic,1,543.0,,543,543,22.75,7.69,0.0,50.14,0,Fast Route
+The Other Factory → South Carolina,The Other Factory,Gulf,1,542.0,,542,542,6.5,7.69,0.0,50.27,0,Fast Route
+The Other Factory → Tennessee,The Other Factory,Gulf,3,664.67,211.61,540,909,42.25,7.69,33.33,33.6,1,Medium
+The Other Factory → Texas,The Other Factory,Interior,9,461.0,304.05,176,907,100.75,7.69,22.22,61.28,1,Medium
+The Other Factory → Virginia,The Other Factory,Gulf,4,450.0,181.34,178,543,55.25,7.69,0.0,62.77,0,Fast Route
+The Other Factory → Washington,The Other Factory,Pacific,4,544.25,297.61,179,908,52.0,7.69,25.0,49.97,1,Medium
+Wicked Choccy's → Alabama,Wicked Choccy's,Gulf,22,542.18,252.71,176,909,333.75,65.09,22.73,50.25,1,Medium
+Wicked Choccy's → Alberta,Wicked Choccy's,Pacific,8,544.12,338.23,179,910,146.0,65.02,37.5,49.98,1,Medium
+Wicked Choccy's → Arizona,Wicked Choccy's,Pacific,105,591.65,273.06,174,912,1429.5,65.13,35.24,43.53,1,Medium
+Wicked Choccy's → Arkansas,Wicked Choccy's,Gulf,27,543.11,303.29,178,912,393.5,65.12,33.33,50.12,1,Medium
+Wicked Choccy's → British Columbia,Wicked Choccy's,Pacific,4,634.0,349.55,178,908,37.5,65.33,50.0,37.77,1,Medium
+Wicked Choccy's → California,Wicked Choccy's,Pacific,823,589.77,262.35,174,912,11394.0,65.13,33.05,43.78,3,Medium-Fast
+Wicked Choccy's → Colorado,Wicked Choccy's,Pacific,70,589.31,256.18,174,910,906.5,65.11,31.43,43.84,1,Medium
+Wicked Choccy's → Connecticut,Wicked Choccy's,Atlantic,31,542.35,267.16,174,912,440.75,65.11,25.81,50.22,1,Medium
+Wicked Choccy's → Delaware,Wicked Choccy's,Atlantic,49,543.06,210.63,176,910,601.5,65.06,16.33,50.13,1,Medium
+Wicked Choccy's → District of Columbia,Wicked Choccy's,Atlantic,2,544.5,0.71,544,545,16.25,64.92,0.0,49.93,0,Fast Route
+Wicked Choccy's → Florida,Wicked Choccy's,Gulf,161,574.61,250.11,174,911,2009.25,65.13,27.95,45.84,1,Medium
+Wicked Choccy's → Georgia,Wicked Choccy's,Gulf,65,615.62,251.73,174,911,862.25,65.12,35.38,40.27,1,Medium
+Wicked Choccy's → Idaho,Wicked Choccy's,Pacific,7,594.43,328.17,178,910,78.75,65.1,42.86,43.15,1,Medium
+Wicked Choccy's → Illinois,Wicked Choccy's,Interior,210,598.6,266.07,176,911,2801.5,65.12,35.24,42.58,1,Medium
+Wicked Choccy's → Indiana,Wicked Choccy's,Interior,54,671.87,257.61,174,911,708.25,65.12,48.15,32.63,1,Medium
+Wicked Choccy's → Iowa,Wicked Choccy's,Interior,14,673.07,271.86,179,910,172.5,65.15,50.0,32.46,1,Medium
+Wicked Choccy's → Kansas,Wicked Choccy's,Interior,9,583.78,337.6,178,909,74.25,65.19,44.44,44.6,1,Medium
+Wicked Choccy's → Kentucky,Wicked Choccy's,Gulf,58,593.36,268.92,174,911,769.25,65.17,34.48,43.29,1,Medium
+Wicked Choccy's → Louisiana,Wicked Choccy's,Gulf,15,541.93,337.62,176,909,220.5,65.08,40.0,50.28,1,Medium
+Wicked Choccy's → Maine,Wicked Choccy's,Atlantic,2,178.0,0.0,178,178,55.25,65.12,0.0,99.73,0,Fast Route
+Wicked Choccy's → Manitoba,Wicked Choccy's,Interior,10,724.7,193.01,540,908,120.25,65.0,50.0,25.45,1,Medium
+Wicked Choccy's → Maryland,Wicked Choccy's,Atlantic,41,596.2,264.77,178,911,652.25,65.18,34.15,42.91,1,Medium
+Wicked Choccy's → Massachusetts,Wicked Choccy's,Atlantic,54,603.94,253.21,176,912,671.25,65.06,33.33,41.86,1,Medium
+Wicked Choccy's → Michigan,Wicked Choccy's,Interior,100,561.27,239.77,176,911,1127.0,65.09,24.0,47.65,1,Medium
+Wicked Choccy's → Minnesota,Wicked Choccy's,Interior,45,600.42,310.57,176,912,595.25,65.13,44.44,42.33,1,Medium
+Wicked Choccy's → Mississippi,Wicked Choccy's,Gulf,22,509.82,222.71,177,910,315.75,65.11,13.64,54.64,1,Medium
+Wicked Choccy's → Missouri,Wicked Choccy's,Interior,29,580.59,297.93,177,912,362.25,65.08,37.93,45.03,1,Medium
+Wicked Choccy's → Montana,Wicked Choccy's,Pacific,7,491.57,389.54,174,908,109.5,65.27,42.86,57.12,1,Medium
+Wicked Choccy's → Nebraska,Wicked Choccy's,Interior,14,568.79,225.16,175,911,185.75,65.21,21.43,46.63,1,Medium
+Wicked Choccy's → Nevada,Wicked Choccy's,Pacific,12,451.67,226.12,178,909,151.5,65.19,8.33,62.54,1,Medium
+Wicked Choccy's → New Brunswick,Wicked Choccy's,Atlantic,4,542.75,298.43,178,909,75.0,65.33,25.0,50.17,1,Medium
+Wicked Choccy's → New Hampshire,Wicked Choccy's,Atlantic,11,609.55,275.05,176,910,208.25,65.07,36.36,41.09,1,Medium
+Wicked Choccy's → New Jersey,Wicked Choccy's,Atlantic,59,604.78,216.64,176,912,672.0,65.1,27.12,41.74,1,Medium
+Wicked Choccy's → New Mexico,Wicked Choccy's,Pacific,17,758.41,226.4,179,911,229.5,65.04,64.71,20.87,1,Medium
+Wicked Choccy's → New York,Wicked Choccy's,Atlantic,436,581.32,244.91,174,912,5518.25,65.11,28.21,44.93,3,Medium-Fast
+Wicked Choccy's → North Carolina,Wicked Choccy's,Gulf,101,622.2,261.36,174,912,1376.25,65.14,38.61,39.37,1,Medium
+Wicked Choccy's → North Dakota,Wicked Choccy's,Interior,2,906.0,0.0,906,906,52.5,65.33,100.0,0.82,2,Medium-Slow
+Wicked Choccy's → Nova Scotia,Wicked Choccy's,Atlantic,6,542.17,326.69,176,909,87.5,65.06,33.33,50.25,1,Medium
+Wicked Choccy's → Ohio,Wicked Choccy's,Atlantic,189,582.82,267.41,174,912,2479.75,65.13,32.8,44.73,1,Medium
+Wicked Choccy's → Oklahoma,Wicked Choccy's,Interior,25,601.32,250.42,179,911,308.25,65.15,32.0,42.21,1,Medium
+Wicked Choccy's → Ontario,Wicked Choccy's,Atlantic,30,518.23,286.28,176,909,466.25,65.03,26.67,53.5,1,Medium
+Wicked Choccy's → Oregon,Wicked Choccy's,Pacific,43,585.53,242.38,176,911,628.25,65.13,27.91,44.36,1,Medium
+Wicked Choccy's → Pennsylvania,Wicked Choccy's,Atlantic,227,608.72,263.53,176,912,2804.25,65.14,36.56,41.21,1,Medium
+Wicked Choccy's → Prince Edward Island,Wicked Choccy's,Atlantic,4,726.0,211.31,543,909,52.0,64.92,50.0,25.27,1,Medium
+Wicked Choccy's → Quebec,Wicked Choccy's,Atlantic,24,513.33,321.97,177,912,254.75,64.99,33.33,54.17,1,Medium
+Wicked Choccy's → Rhode Island,Wicked Choccy's,Atlantic,21,629.33,280.08,176,910,282.25,65.08,42.86,38.41,1,Medium
+Wicked Choccy's → Saskatchewan,Wicked Choccy's,Pacific,2,726.5,259.51,543,910,29.25,64.92,50.0,25.2,1,Medium
+Wicked Choccy's → South Carolina,Wicked Choccy's,Gulf,19,503.63,240.8,174,911,307.0,65.2,15.79,55.49,1,Medium
+Wicked Choccy's → South Dakota,Wicked Choccy's,Interior,3,421.67,422.04,178,909,33.75,65.33,33.33,66.62,1,Medium
+Wicked Choccy's → Tennessee,Wicked Choccy's,Gulf,67,663.18,241.31,178,911,915.75,65.09,43.28,33.81,1,Medium
+Wicked Choccy's → Texas,Wicked Choccy's,Interior,388,585.14,272.78,174,912,5140.5,65.11,34.28,44.41,3,Medium-Fast
+Wicked Choccy's → Utah,Wicked Choccy's,Pacific,23,543.22,290.49,179,909,362.5,65.12,30.43,50.11,1,Medium
+Wicked Choccy's → Vermont,Wicked Choccy's,Atlantic,5,687.6,200.29,540,907,51.75,65.17,40.0,30.49,1,Medium
+Wicked Choccy's → Virginia,Wicked Choccy's,Gulf,106,508.33,254.48,174,911,1490.0,65.1,19.81,54.85,1,Medium
+Wicked Choccy's → Washington,Wicked Choccy's,Pacific,221,645.18,270.67,174,912,3023.0,65.13,45.25,36.25,1,Medium
+Wicked Choccy's → West Virginia,Wicked Choccy's,Atlantic,2,908.0,0.0,908,908,25.25,65.12,100.0,0.54,2,Medium-Slow
+Wicked Choccy's → Wisconsin,Wicked Choccy's,Interior,47,581.62,205.29,176,911,737.25,65.08,21.28,44.89,1,Medium
